@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Feyza Nur Cesimkaya
 
-🚀 **Industrial Engineering Student | Marketing & Strategy Enthusiast**  
+🚀 **Industrial Engineering Student |  
 📍 **Istanbul, Türkiye**
 
 I am a proactive and people-oriented **Industrial Engineering student** with a strong interest in  
