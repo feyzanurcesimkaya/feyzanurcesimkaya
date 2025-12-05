@@ -15,7 +15,7 @@ and transforming ideas into impactful projects.
 - **Marketing & Corporate Relations:** Brand representation, partnerships, communication strategy  
 - **Project & Event Management:** End-to-end coordination, logistics, stakeholder management  
 - **Quality & Process Improvement:** KPI tracking, internal audits, documentation systems  
-- **Digital Transformation:** EDMS, digital archiving, process automation mindset  
+- **Digital Transformation:** EDMS, digital archiving, process automation mindset, Microsoft Excel
 - **Soft Skills:** Leadership, presentation, teamwork, adaptability, cross-cultural communication  
 
 ---
